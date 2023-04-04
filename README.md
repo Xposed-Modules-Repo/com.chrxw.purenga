@@ -20,6 +20,8 @@
 [![Steam](https://img.shields.io/badge/steam-donate-1B2838.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=221260487&token=xgqMgL-i)
 [![爱发电](https://img.shields.io/badge/爱发电-chr__-ea4aaa.svg?logo=github-sponsors)](https://afdian.net/@chr233)
 
+## 内置模块的NGA安装包迁移至 [PureNGA](https://github.com/chr233/PureNGA/releases/tag/NGA) 的仓库中集中发布
+
 
 
 一个旨在去除 NGA 开屏广告的模块
