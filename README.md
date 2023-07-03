@@ -4,8 +4,8 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/chr233/PureNGA/android.yml?logo=github)
 [![License](https://img.shields.io/github/license/chr233/PureNGA?logo=apache)](https://github.com/chr233/PureNGA/blob/master/license)
 
-[![GitHub Release](https://img.shields.io/github/v/release/chr233/PureNGA?logo=github)](https://github.com/chr233/PureNGA/releases)
-[![GitHub Release](https://img.shields.io/github/v/release/chr233/PureNGA?include_prereleases&label=pre-release&logo=github)](https://github.com/chr233/PureNGA/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.chrxw.purenga?logo=github)](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.chrxw.purenga?include_prereleases&label=pre-release&logo=github)](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga/releases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/chr233/PureNGA?logo=github)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/chr233/PureNGA?logo=github)
