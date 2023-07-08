@@ -22,8 +22,10 @@
 
 ## 内置模块的NGA安装包迁移至 [PureNGA](https://github.com/chr233/PureNGA/releases/tag/NGA) 的仓库中集中发布
 
+## 本仓库仅提供独立模块下载
 
+一个旨在去除NGA论坛APP广告的模块
 
-一个旨在去除 NGA 开屏广告的模块
-
-信息流广告屏蔽开发中
+[x] 开屏广告跳过
+[x] 信息流广告过滤
+[x] 去广告任务破解
