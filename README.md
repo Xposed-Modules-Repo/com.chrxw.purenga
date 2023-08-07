@@ -20,12 +20,19 @@
 [![Steam](https://img.shields.io/badge/steam-donate-1B2838.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=221260487&token=xgqMgL-i)
 [![爱发电](https://img.shields.io/badge/爱发电-chr__-ea4aaa.svg?logo=github-sponsors)](https://afdian.net/@chr233)
 
-## 内置模块的NGA安装包迁移至 [PureNGA](https://github.com/chr233/PureNGA/releases/tag/NGA) 的仓库中集中发布
+## 版本说明
 
-## 本仓库仅提供独立模块下载
+| 类型       | 特性                                           | 下载链接                                                                                                                                                                          |
+| ---------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 整合版 NGA | 无需 Xposed 框架, 模块整合进官方 App, 体积较大 | [![GitHub Release](https://img.shields.io/github/v/release/chr233/PureNGA?logo=github)](https://github.com/chr233/PureNGA/releases)                                               |
+| 独立插件版 | 依赖 Xposed 框架, 独立更新, 体积小             | [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.chrxw.purenga?logo=github)](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga/releases) |
 
-一个旨在去除NGA论坛APP广告的模块
+## 主要功能
+
+去除屎黄色论坛安卓 APP 的绝大部分广告
 
 - [x] 开屏广告跳过
 - [x] 信息流广告过滤
 - [x] 去广告任务破解
+
+兼容 Lsposed 与 Lspatch
