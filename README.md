@@ -25,6 +25,8 @@ Xposed 仓库
 | 整合版 NGA | 无需 Xposed 框架, 覆盖安装原版 App, 体积大 |  [![img][release_bundled]][link_bundled]   |    [![img][download_bundled]][link_bundled]    |
 | 独立插件版 |     依赖 Xposed 框架, 独立更新, 体积小     | [![img][release_standalone]][link_standalone] | [![img][download_standalone]][link_standalone] |
 
+> 历时一年的开发, 所有功能趋于稳定, 后续不再开发新功能
+
 ## [使用文档](https://github.com/chr233/PureNGA)
 
 [release_bundled]: https://img.shields.io/github/v/release/chr233/PureNGA?logo=github&label=版本
