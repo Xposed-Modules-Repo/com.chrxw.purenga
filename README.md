@@ -44,18 +44,13 @@ Xposed 仓库
 
 ## 捐赠
 
-|               ![img][afdian_qr]                |                   ![img][bmac_qr]                   |                       ![img][usdt_qr]                       |
-| :--------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: |
-| ![爱发电][afdian_img] <br> [链接][afdian_link] | ![buy me a coffee][bmac_img] <br> [链接][bmac_link] | ![USDT][usdt_img] <br> `TW41eecZ199QK6zujgKP4j1cz2bXzRus3c` |
+|       ![[链接][afdian_link]][afdian_qr]        |
+| :--------------------------------------------: |
+| ![爱发电][afdian_img] <br> [链接][afdian_link] |
 
-[afdian_qr]: https://raw.chrxw.com/chr233/master/afadian_qr.png
+[afdian_qr]: https://raw.chrxw.com/PureNGA/master/.github/aifadian.png
 [afdian_img]: https://img.shields.io/badge/爱发电-@chr__-ea4aaa.svg?logo=github-sponsors
 [afdian_link]: https://afdian.com/@chr233
-[bmac_qr]: https://raw.chrxw.com/chr233/master/bmc_qr.png
-[bmac_img]: https://img.shields.io/badge/buy%20me%20a%20coffee-@chr233-yellow?logo=buymeacoffee
-[bmac_link]: https://www.buymeacoffee.com/chr233
-[usdt_qr]: https://raw.chrxw.com/chr233/master/usdt_qr.png
-[usdt_img]: https://img.shields.io/badge/USDT-TRC20-2354e6.svg?logo=bitcoin
 
 ## [使用文档](https://github.com/chr233/PureNGA)
 
