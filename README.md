@@ -99,18 +99,6 @@ Xposed 仓库
 | <img src="https://raw.chrxw.com/PureNGA/main/app/src/main/res/drawable-nodpi/tutorials3.webp" width="250px"> | !<img src="https://raw.chrxw.com/PureNGA/main/app/src/main/res/drawable-nodpi/tutorials4.webp" width="250px"> |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 
-## [使用文档](https://github.com/chr233/PureNGA)
-
----
-
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/4bf56a527045ee543205efea99a07e5d09bcd7c3.svg "Repobeats analytics image")
-
----
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chr233/PureNGA&type=Date)](https://star-history.com/#chr233/PureNGA&Date)
-
----
-
 [repo_code]: https://github.com/chr233/PureNGA
 [repo_xposed]: https://github.com/Xposed-Modules-Repo/com.chrxw.purenga
 [release_bundled]: https://img.shields.io/github/v/release/chr233/PureNGA?logo=github&label=版本
