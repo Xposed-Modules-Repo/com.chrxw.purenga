@@ -22,9 +22,8 @@ Xposed 仓库
 
 ## 捐赠
 
-| [<img src="https://raw.chrxw.com/PureNGA/main/app/src/main/res/drawable-nodpi/aifadian.webp" width="250px">][afdian_link] |
-| :-----------------------------------------------------------------------------------------------------------------------: |
-|                                          [![爱发电][afdian_badge]][afdian_link]                                           |
+| [<img src="https://raw.chrxw.com/PureNGA/main/.github/aifadian.png" width="250px">][afdian_link] | [<img src="https://raw.chrxw.com/PureNGA/main/.github/afadian-rank.png" width="250px">][afdian_link] |
+| :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 
 [afdian_badge]: https://img.shields.io/badge/爱发电-@chr__-ea4aaa.svg?logo=github-sponsors
 [afdian_link]: https://afdian.com/@chr233
